@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.088,D:\DZ\2 sem\Oaip\Laba5\Project2PCH1.h=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\DZ\2 sem\Oaip\Laba5\Unit1.dfm=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,D:\DZ\2 sem\Oaip\Laba5\Project2.cbproj=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,D:\DZ\2 sem\Oaip\Laba5\Unit1.dfm=D:\DZ\2 sem\Oaip\Laba5\Lab5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\DZ\2 sem\Oaip\Laba5\Unit2.cpp=D:\DZ\2 sem\Oaip\Laba5\Queue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,D:\DZ\2 sem\Oaip\Laba5\Unit2.cpp=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\DZ\2 sem\Oaip\Laba5\Unit1.cpp=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,D:\DZ\2 sem\Oaip\Laba5\Unit1.cpp=D:\DZ\2 sem\Oaip\Laba5\Lab5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\DZ\2 sem\Oaip\Laba5\Unit2.h=D:\DZ\2 sem\Oaip\Laba5\Queue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,D:\DZ\2 sem\Oaip\Laba5\Unit1.h=D:\DZ\2 sem\Oaip\Laba5\Lab5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\DZ\2 sem\Oaip\Laba5\Unit1.h=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,D:\DZ\2 sem\Oaip\Laba5\Unit2.h=C:\Users\imarket.by\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2017.05.08 20:21:06.061,D:\DZ\2 sem\Oaip\Lab5\La5(4)PCH1.h=D:\DZ\2 sem\Oaip\Lab5\Project2PCH1.h</Transaction>
+    <Transaction>2017.05.08 20:21:06.122,D:\DZ\2 sem\Oaip\Lab5\La5(4).cbproj=D:\DZ\2 sem\Oaip\Lab5\Project2.cbproj</Transaction>
+    <Transaction>2017.05.08 20:21:21.292,D:\DZ\2 sem\Oaip\Lab5\5LabPCH1.h=D:\DZ\2 sem\Oaip\Lab5\La5(4)PCH1.h</Transaction>
+    <Transaction>2017.05.08 20:21:21.308,D:\DZ\2 sem\Oaip\Lab5\5Lab.cbproj=D:\DZ\2 sem\Oaip\Lab5\La5(4).cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
